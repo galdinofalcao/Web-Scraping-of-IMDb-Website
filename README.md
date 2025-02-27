@@ -1,7 +1,5 @@
 # Web-Scraping-of-IMDb-Website
 
-## ***Web Scraping Project***
-
 ## **Description of the Problem:**
 Design a system that scrapes the IMDB website to gather and compile data on 100 movies and their associated actors.
 
